@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Main-Class: 
+Class-Path: cron4j-2.2.5.jar mariadb-java-client-2.6.1-sources.jar cron4
+ j-2.2.5-sources.jar netty-all-4.1.50.Final.jar netty-all-4.1.50.Final-s
+ ources.jar exp4j-0.4.8-sources.jar exp4j-0.4.8.jar mariadb-java-client-
+ 2.6.1.jar
+

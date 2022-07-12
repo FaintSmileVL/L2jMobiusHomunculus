@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Main-Class: org.l2jmobius.gameserver.GameServer
+Class-Path: jdom-2.0.6.jar exp4j-0.4.8.jar cron4j-2.2.5.jar log4j-1.2.17
+ .jar lombok-1.18.8.jar dom4j-2.0.0-RC1.jar slf4j-api-1.7.21.jar exp4j-0
+ .4.8-sources.jar slf4j-log4j12-1.7.5.jar cron4j-2.2.5-sources.jar netty
+ -all-4.1.50.Final.jar mariadb-java-client-2.6.1.jar netty-all-4.1.50.Fi
+ nal-sources.jar mariadb-java-client-2.6.1-sources.jar
+

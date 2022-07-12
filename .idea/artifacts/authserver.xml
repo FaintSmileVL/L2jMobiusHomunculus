@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact name="authserver">
+    <output-path>$PROJECT_DIR$/out/artifacts/authserver</output-path>
+    <root id="root">
+      <element id="archive" name="LoginServer.jar">
+        <element id="module-output" name="authserver" />
+        <element id="module-output" name="common" />
+      </element>
+    </root>
+  </artifact>
+</component>
